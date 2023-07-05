@@ -11,3 +11,4 @@ for (let i = 0; i < btnsOpenModal.length; i++)
     modal.classList.remove("hidden");
     overLay.classList.remove("hidden");
   });
+btnCloseModal.addEventListener("click", function () {});
